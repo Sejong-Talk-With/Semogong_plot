@@ -2,6 +2,7 @@
 
 세상의 모든 공부, 대쉬보드 페이지 제작을 위한 파이썬 Matplotlib 코드
 
+분석화면 : http://semogong.site/data
 
 #### 구성
 
