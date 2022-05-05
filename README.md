@@ -2,7 +2,6 @@
 
 세상의 모든 공부, 대쉬보드 페이지 제작을 위한 파이썬 Matplotlib 코드
 
-<br>
 
 #### 구성
 
@@ -12,7 +11,6 @@
 - Docker
 - Kubernetes cronjobs
 
-<br>
 
 #### k8s Cronjob
 Cron job을 이용해서 일정시간마다, 차트가 갱신되게 변경
